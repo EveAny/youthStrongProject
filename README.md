@@ -1,2 +1,1 @@
-# youthStrongProject
-少年强国项目。
+# 少年强国项目
